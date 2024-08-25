@@ -1,4 +1,32 @@
+<!--
+title:   エンジニア心理学
+tags:    新人エンジニア,新人教育,新卒エンジニア
+id:      エンジニア心理学,コミュニケーション,1on1
+private: false
+-->
 
+
+
+
+
+
+
+## 対面で使える心理学
+
+### 目線から把握できることの全て
+
+https://qiita.com/minegishirei_v2/items/a34b6c93e50efa4f4d91
+
+### 唇の動きから把握できること
+
+https://qiita.com/minegishirei_v2/items/f3d257de7e1e119b483f
+
+
+## ケーススタディ
+
+### 新卒エンジニアの教育で重要なこと6つ
+
+https://qiita.com/minegishirei_v2/items/504e8942ace789b5c516
 
 
 
