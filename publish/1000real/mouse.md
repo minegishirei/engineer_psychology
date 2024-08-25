@@ -1,9 +1,10 @@
 <!--
 title:   唇の動きから把握できること【エンジニア心理学】
-tags:    エンジニア心理学,コミュニケーション,1on1
-id:      
+tags:    1on1,エンジニア心理学,コミュニケーション
+id:      f3d257de7e1e119b483f
 private: false
 -->
+
 
 
 # 唇は反応速度が速い
@@ -70,7 +71,7 @@ https://psychology-navi.com/2020/09/15/kutimoto-sinnrigaku/
 
 https://www.scienceofpeople.com/mouth-body-language/
 
-口すぼめは、**裁判の最終弁論中によく見られます。** 
+口すぼめは、**裁判の最終弁論中によく見られます。**
 一方の弁護士が話すとき、反対側は意見の相違により口をすぼめることがあります。
 
 
@@ -89,13 +90,13 @@ https://www.scienceofpeople.com/mouth-body-language/
 
 https://www.psychologytoday.com/us/blog/spycatcher/202312/the-lips-our-emotional-seismograph
 
-**唇に対して圧力をかける行為は、ストレスを感じたときに出現するサインの一つです。** 
+**唇に対して圧力をかける行為は、ストレスを感じたときに出現するサインの一つです。**
 部下のフォローの際にこのサインが出たときは、「何か言い残していることがないか」の確認を怠らないようにしましょう。
 
 
 ## 唇を隠して話す時の心理
 
-> 唇を隠して話す時の心理は、**発言に注意しながら話している仕草です。** 
+> 唇を隠して話す時の心理は、**発言に注意しながら話している仕草です。**
 > ウソを見抜かれないようにしている時、隠し事がある時などにあらわれやすいです。また、緊張している時にもあらわれることがあります。
 
 https://psychology-navi.com/2020/09/15/kutimoto-sinnrigaku/
@@ -190,7 +191,7 @@ https://www.scienceofpeople.com/mouth-body-language/#6-more-mouth-gestures-to-kn
 
 
 
- 
+
 # 舌の動き
 
 
@@ -266,6 +267,5 @@ https://www.scienceofpeople.com/mouth-body-language/
 
 
 page:https://qiita.com/minegishirei_v2/items/41606baa240e52082c9c
-
 
 
