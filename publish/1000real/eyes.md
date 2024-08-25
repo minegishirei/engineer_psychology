@@ -7,21 +7,6 @@ private: false
 
 
 
-- 図表
-
-本記事の内容は ほぼ全てdraw.ioでパーツ化してます。
-
-<a href="https://github.com/minegishirei/psy_drawio/blob/main/1000real/parts.drawio">
-こちらのサイトより、draw.ioで表示し、戦略を立てていてください。
-</a>
-
-エンジニアにとってのコミュニケーションは事前準備が大事ですので、 **どのような会話の流れになるかを事前に予測し、戦略を立ててください。**
-
-<img src="https://raw.githubusercontent.com/minegishirei/psy_drawio/main/1000real/parts.png">
-
-
-
-
 # 目線から得る情報でKPIを判定する
 
 オフラインでのMTGの場合、まず最初に見るべきところは目線です。
@@ -38,7 +23,21 @@ private: false
 
 いわば自分の好感度を図るKPIのようなものと考えてよいでしょう。
 
-![](https://raw.githubusercontent.com/minegishirei/store/80a633bc8c666b82e13037ec65d39557bbc1ea79/psychology/read_eye/read_eye.drawio.svg)
+
+- 図表
+
+本記事の内容は ほぼ全てdraw.ioでパーツ化してます。
+
+<a href="https://github.com/minegishirei/psy_drawio/blob/main/1000real/parts.drawio">
+こちらのサイトより、draw.ioで表示し、戦略を立てていてください。
+</a>
+
+エンジニアにとってのコミュニケーションは事前準備が大事ですので、 **どのような会話の流れになるかを事前に予測し、戦略を立ててください。**
+
+<img src="https://raw.githubusercontent.com/minegishirei/psy_drawio/main/1000real/parts.png">
+
+
+
 
 # 瞬き
 
