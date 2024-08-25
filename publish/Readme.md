@@ -53,7 +53,7 @@ https://qiita.com/minegishirei_v2/items/504e8942ace789b5c516
 
 ## バウムテスト活用マニュアル 精神症状と問題行動の評価
 
-<img width="150px" src="https://www.kongoshuppan.co.jp/book/b514393.html">
+<img width="150px" src="https://www.kongoshuppan.co.jp//images/book/514393.jpg">
 
 エンジニア心理学では取り扱いませんが、人間の心理状況を可視化する手段としてバウムテストが参考になりました。
 コミュニケーション以外の方法で人の心理状態を把握する目的で、1on1で使用しても良いかもしれません。
