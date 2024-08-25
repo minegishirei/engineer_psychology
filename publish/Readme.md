@@ -37,7 +37,7 @@ https://qiita.com/minegishirei_v2/items/504e8942ace789b5c516
 
 ## プロカウンセラーの聞く技術 東山 紘久 著
 
-<img src="https://www.sogensha.co.jp/upload/save_image/mb11257m.jpg">
+<img width="150px" src="https://www.sogensha.co.jp/upload/save_image/mb11257m.jpg">
 
 1on1のコミュニケーションでは、「話す技術」よりも「聞く技術」を磨くことで、相手からの信頼を勝ち取ることができます。
 この「信頼関係の構築」はコミュニケーション、チーム開発の基礎です。
@@ -53,7 +53,7 @@ https://qiita.com/minegishirei_v2/items/504e8942ace789b5c516
 
 ## バウムテスト活用マニュアル 精神症状と問題行動の評価
 
-<img src="https://www.kongoshuppan.co.jp/book/b514393.html">
+<img width="150px" src="https://www.kongoshuppan.co.jp/book/b514393.html">
 
 エンジニア心理学では取り扱いませんが、人間の心理状況を可視化する手段としてバウムテストが参考になりました。
 コミュニケーション以外の方法で人の心理状態を把握する目的で、1on1で使用しても良いかもしれません。
@@ -67,7 +67,7 @@ https://www.kongoshuppan.co.jp/book/b514393.html
 
 ## 樹木画によるパーソナリティの理解
 
-<img src="https://hondana-image.s3.amazonaws.com/book/image/134003/normal_defc24d5-79ae-452c-bec6-24f7a7d8c817.jpg">
+<img width="150px" src="https://hondana-image.s3.amazonaws.com/book/image/134003/normal_defc24d5-79ae-452c-bec6-24f7a7d8c817.jpg">
 
 こちらもバウムテストを取り扱った書籍です。
 「バウムテスト活用マニュアル」よりもケーススタディ形式で網羅されているのが特徴ですが、
