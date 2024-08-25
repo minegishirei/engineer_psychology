@@ -51,10 +51,12 @@ https://qiita.com/minegishirei_v2/items/504e8942ace789b5c516
 > 自分は今までどれほど人の話を聞いていなかったのか…！
 > 「沈黙は金、雄弁は銀」「一度語る前に二度聞け」など、昔からしゃべることよりも聞くことの大切さが強調される。もちろん「話す」ことも人間関係の上で大きな影響を与えるが、本当に人の話を「聞く」ことができると、人間関係は驚くほどよくなる。本書は、「聞く」ことのプロであるカウンセラーが、「聞き上手」になるための極意を、実例をふくめてわかりやすく説いた1冊。
 
-参考 : https://www.sogensha.co.jp/productlist/detail?id=842&srsltid=AfmBOopH76miF5E8Vu7QX1kRh0j5icyklAwMe2V6xo2bcHfLlKb23wnb
+https://www.sogensha.co.jp/productlist/detail?id=842&srsltid=AfmBOopH76miF5E8Vu7QX1kRh0j5icyklAwMe2V6xo2bcHfLlKb23wnb
 
 
 # 参考図書(番外編)
+
+
 
 ## バウムテスト活用マニュアル 精神症状と問題行動の評価
 
@@ -83,6 +85,19 @@ https://www.kongoshuppan.co.jp/book/b514393.html
 https://www.nakanishiya.co.jp/book/b134003.html
 
 
+## 「あ」は「い」より大きい!? 音象徴で学ぶ音声学入門
+
+<img width="150px" src="http://www.hituzi.co.jp/hituzibooks/img/9784894768864.jpg">
+
+こちらもエンジニア心理学では直接取り扱いませんが、心理学のとっつきにくさと不明瞭さを「生物学的なアプローチ」で対応している書籍です。
+音声に対するイメージの源を発話の際の口内の圧力や空気抵抗から紐解く書籍で、堅苦しい言葉を使わずに解説しています。
+
+> 「ワマナ」さんと「サタカ」さんは、どちらが優しく、どちらが気が強くサバサバしているだろうか？　聞いたことの無い名前からでもその印象を感じることができる、この現象は「音象徴」と呼ばれ、ことばの音と意味の関係を考える上でいま注目を集めている。本書では、「メイド喫茶のメイドさん」「ポケモン」「ピコ太郎」など音象徴の身近な題材を例にしながら、音の科学である「音声学」という学問へと誘う。これまでにない楽しく分かりやすい音声学入門。
+
+
+https://www.hituzi.co.jp/hituzibooks/ISBN978-4-89476-886-4.htm
+
+
 
 
 # 参考サイト
@@ -92,6 +107,10 @@ https://www.nakanishiya.co.jp/book/b134003.html
 
 https://jupaken.jp/study/books.html
 
+
+## 関西学院大学心理学科研究室 心理学の基礎 四訂版「推薦図書」リスト
+
+https://psysci.kwansei.ac.jp/other/booklist/shinkiso4th/
 
 
 
