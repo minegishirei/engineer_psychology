@@ -17,7 +17,7 @@ private: false
 
 エンジニアにとってのコミュニケーションは事前準備が大事ですので、 **どのような会話の流れになるかを事前に予測し、戦略を立ててください。**
 
-<img src="https://raw.githubusercontent.com/minegishirei/psy_drawio/283520a46cc94ee6466226e17526882cddddb883/1000real/parts.png">
+<img src="https://raw.githubusercontent.com/minegishirei/psy_drawio/main/1000real/parts.png">
 
 
 
