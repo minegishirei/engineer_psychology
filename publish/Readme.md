@@ -1,9 +1,10 @@
 <!--
 title:   エンジニア心理学
-tags:    エンジニア心理学,コミュニケーション,1on1
-id:      
+tags:    1on1,エンジニア心理学,コミュニケーション
+id:      49784ea87ba160ef8065
 private: false
 -->
+
 
 
 
@@ -85,7 +86,6 @@ https://www.nakanishiya.co.jp/book/b134003.html
 ## 心理学検定 : 推薦書籍の紹介
 
 https://jupaken.jp/study/books.html
-
 
 
 
