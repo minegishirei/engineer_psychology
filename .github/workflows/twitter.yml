@@ -14,4 +14,4 @@ jobs:
       - name: Tweet
         run: |
           pip install tweepy
-          python ./code/twitter_api.py ${{ github.event.head_commit.message }}"
+          python ./code/twitter_api.py ${{ github.event.head_commit.message }}
