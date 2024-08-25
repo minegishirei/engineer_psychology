@@ -17,8 +17,13 @@
 参考 : https://www.sogensha.co.jp/productlist/detail?id=842&srsltid=AfmBOopH76miF5E8Vu7QX1kRh0j5icyklAwMe2V6xo2bcHfLlKb23wnb
 
 
-## 
 
+# 参考サイト
+
+
+## 心理学検定 : 推薦書籍の紹介
+
+https://jupaken.jp/study/books.html
 
 
 
