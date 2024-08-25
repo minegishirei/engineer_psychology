@@ -25,7 +25,7 @@ https://qiita.com/minegishirei_v2/items/f3d257de7e1e119b483f
 
 ## オンラインで使える心理学
 
-
+https://qiita.com/minegishirei_v2/items/cca2f3a0cfbe2fa5d9b7
 
 
 ## ケーススタディ
