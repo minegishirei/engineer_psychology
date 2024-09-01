@@ -1,11 +1,22 @@
 <!--
-title:   信頼関係構築の鍵【エンジニア心理学】
+title:   1on1でのパーソナリティを理解する試み【エンジニア心理学】
 tags:    1on1,エンジニア心理学,コミュニケーション
 id:      
 private: false
 -->
 
+# ❤️ エンジニア心理学
 
+## 対象者
+
+- 同僚のパーソナリティを理解しようとするエンジニア
+- 同僚の一時的な感情を理解しようとするエンジニア
+- 信頼関係を構築したいエンジニア
+- 同僚に動いてもらえる確率を少しでもあげたいエンジニア
+
+## 概要
+
+この記事は、1on1でのパーソナリティを理解するための試みです。
 
 
 ## 人は10代で満たされなかったものに一生執着する理論
@@ -13,18 +24,13 @@ private: false
 注意! この理論は出所が不明です。
 
 「人は10代で満たされなかったものに一生執着する」という理論があるそうです。
-
+ただし、この理論は出所が不明なものであり、書籍からの出典でも有効な研究結果でもありません。
+この理論は一般的な心理洞察に基づくものと考えられます。
 
 <blockquote class="twitter-tweet">
 <p lang="ja" dir="ltr">「人は十代で満たされなかったものに一生執着する理論」マジだよなあ</p>&mdash; めろん (@gatigatitv) <a href="https://twitter.com/gatigatitv/status/1828075202582118711?ref_src=twsrc%5Etfw">August 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-ただし、この理論は出所が不明なものであり、書籍からの出典でも有効な研究結果でもありません。
-この理論は一般的な心理洞察に基づくものと考えられます。
-
-以下のツイートの内容のように、バーナム効果としての側面もある可能性もあります。
-
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「10代の頃に手に入らなかったものに人は一生執着する」ってずるい言葉だよな。10代の頃なんて誰も何も持ってないんだから、だいたいなんでも当てはまっちゃう</p>&mdash; 九月 (@kugatsu_main) <a href="https://twitter.com/kugatsu_main/status/1352609423391297537?ref_src=twsrc%5Etfw">January 22, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+最初はバーナム効果の
 バーナム効果が強くなる条件は以下の通り。
 
 > 次のような条件を満たす時に、被験者はテストの正確さにより高い評価を与える事が、後の研究で判明した。
