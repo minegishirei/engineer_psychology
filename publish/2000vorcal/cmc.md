@@ -8,6 +8,7 @@ private: false
 
 
 
+
 # 💻 CMCとは
 
 CMC(Computer Mediated Communication)とは、その名前の通りコンピューターを通じたコミュニケーションスタイルのことです。
