@@ -1,6 +1,6 @@
 <!--
-title:   リモート時代におけるCMC(Computer Mediated Communication)のメリット
-tags:    エンジニア心理学,チームビルディング,新人教育,新卒エンジニア,新人エンジニア
+title:   チャット/ミーティングの使い分けポイント6選
+tags:    チームビルディング,新人教育,新卒エンジニア,新人エンジニア
 id:      c55272dd0cee1bf636d2
 private: false
 -->
