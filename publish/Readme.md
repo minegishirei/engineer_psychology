@@ -4,9 +4,6 @@ tags:    1on1,エンジニア心理学,コミュニケーション
 id:      49784ea87ba160ef8065
 private: false
 -->
-
-
-
 # ❤️ エンジニア心理学
 
 ## 対象者
@@ -26,20 +23,20 @@ private: false
 
 # 記事一覧
 
-- [😨 心理学の課題](https://qiita.com/minegishirei_v2/items/776068c2d9b4c9e5aed2) 心理学が抱える課題を事前に洗い出し、エンジニア心理学を展開するにあたって不安点、疑問点を解消する試みです。
+- [😨 心理学の課題](Problem.md) 心理学が抱える課題を事前に洗い出し、エンジニア心理学を展開するにあたって不安点、疑問点を解消する試みです。
 - 🤝 対面で使える心理学
-    - [目線から把握できることの全て](https://qiita.com/minegishirei_v2/items/a34b6c93e50efa4f4d91)
-    - [唇の動きから把握できること](https://qiita.com/minegishirei_v2/items/f3d257de7e1e119b483f)
+    - [目線から把握できることの全て](1000real/eyes.md)
+    - [唇の動きから把握できること](1000real/mouse.md)
 - 💻 オンラインで使える心理学
-    - [テキストコミュニケーションのメリット/デメリット](https://qiita.com/minegishirei_v2/items/c55272dd0cee1bf636d2)
-    - [ゆっくり喋ろう](https://qiita.com/minegishirei_v2/items/d1ffb5763ed91098af63)
-    - [信頼関係構築](https://qiita.com/minegishirei_v2/items/cca2f3a0cfbe2fa5d9b7)
-    - [頼み事をするときは相手の一貫性を活用せよ](https://qiita.com/minegishirei_v2/items/d45e39b08d86fe062817)
+    - [テキストコミュニケーションのメリット/デメリット](2000vorcal/cmc.md)
+    - [ゆっくり喋ろう](../2023-11-24_d1ffb5763ed91098af63.md)
+    - [信頼関係構築](2000vorcal/relationship.md)
+    - [頼み事をするときは相手の一貫性を活用せよ](2000vorcal/write.md)
     - 説得の科学(準備中...)
 - 🧐 作戦の立て方(準備中...)
 - 📗 ケーススタディ
-    - [新卒エンジニアの教育で重要なこと6つ](https://qiita.com/minegishirei_v2/items/504e8942ace789b5c516)
-    - 部下ができたらやることリスト(準備中...)
+    - [新卒エンジニアの教育で重要なこと6つ](3000cases/2022-10-16_504e8942ace789b5c516.md)
+    - (部下ができたらやることリスト)
 
 # 参考書籍(既読)
 
@@ -207,10 +204,3 @@ https://www.kinokuniya.co.jp/kinonavi/disp/CKnNvSfGoodsPage.jsp?store=G2&q=%E3%8
 - ［１］SNSとは
 - ［２］SNS利用に対する社会心理学的研究の知見
 - ［３］SNS利用にまつわる社会的課題
-
-
-
-
-
-
-
