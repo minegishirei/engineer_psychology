@@ -1,9 +1,10 @@
 <!--
 title:   エンジニアを説得する技術
 tags:    1on1,エンジニア心理学,コミュニケーション
-id:      
+id:      e09f2cd1d6df8e605497
 private: false
 -->
+
 
 
 
@@ -93,7 +94,6 @@ private: false
 
 
 ## 準備中...
-
 
 
 
