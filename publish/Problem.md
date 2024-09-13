@@ -8,7 +8,7 @@ private: false
 
 
 
-# ❤️ エンジニア心理学
+# 🍵 エンジニア心理学
 
 https://qiita.com/minegishirei_v2/items/49784ea87ba160ef8065
 
