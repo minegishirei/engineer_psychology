@@ -21,11 +21,19 @@ private: false
 
 # 🏁 エンジニア心理学の目標
 
-準備中...
+エンジニア心理学の目標は次の二つです。
+
+- プログラマーとチームリーダーの摩擦を解消する方法論をまとめチームの価値を最大化する
+- 顧客の言葉を理解し、信頼関係を構築し、品質とコスト面で駆け引きを行う方法論をまとめる
+
+これらを心理学を用いてプロジェクトの成功率を最大限高める試みです。
+
+https://qiita.com/minegishirei_v2/items/260617a0406d31affeef
 
 # 記事一覧
 
-- [😨 心理学の課題](Problem.md) 心理学が抱える課題を事前に洗い出し、エンジニア心理学を展開するにあたって不安点、疑問点を解消する試みです。
+- [🏁 エンジニア心理学の目標](https://qiita.com/minegishirei_v2/items/260617a0406d31affeef)
+- [😨 心理学の課題](https://qiita.com/minegishirei_v2/items/776068c2d9b4c9e5aed2) 心理学が抱える課題を事前に洗い出し、エンジニア心理学を展開するにあたって不安点、疑問点を解消する試みです。
 - 🤝 対面で使える心理学
     - [目線から把握できることの全て](https://qiita.com/minegishirei_v2/items/a34b6c93e50efa4f4d91)
     - [唇の動きから把握できること](https://qiita.com/minegishirei_v2/items/f3d257de7e1e119b483f)
