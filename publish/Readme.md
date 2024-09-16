@@ -28,11 +28,11 @@ private: false
 
 これらを心理学を用いてプロジェクトの成功率を最大限高める試みです。
 
-https://qiita.com/minegishirei_v2/items/260617a0406d31affeef
+https://qiita.com/minegishirei_v2/items/c465770bdc47365577ff
 
 # 記事一覧
 
-- [🏁 エンジニア心理学の目標](https://qiita.com/minegishirei_v2/items/260617a0406d31affeef)
+- [🏁 エンジニア心理学の目標](https://qiita.com/minegishirei_v2/items/c465770bdc47365577ff)
 - [😨 心理学の課題](https://qiita.com/minegishirei_v2/items/776068c2d9b4c9e5aed2) 心理学が抱える課題を事前に洗い出し、エンジニア心理学を展開するにあたって不安点、疑問点を解消する試みです。
 - 🤝 対面で使える心理学
     - [目線から把握できることの全て](https://qiita.com/minegishirei_v2/items/a34b6c93e50efa4f4d91)
