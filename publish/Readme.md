@@ -47,7 +47,8 @@ https://qiita.com/minegishirei_v2/items/c465770bdc47365577ff
 - 📗 ケーススタディ
     - [新卒エンジニアの教育で重要なこと6つ](https://qiita.com/minegishirei_v2/items/504e8942ace789b5c516)
     - 部下ができたらやることリスト(準備中...)
-    - チームで動くよ(準備中...)
+    - ペアプロ・チェックリスト7箇条
+
 
 # 参考書籍(既読)
 
